@@ -3016,7 +3016,499 @@ Scheme
 				"antialias" "1"
 			}
 		}
-	}
+	
+	
+	// Custom hud fonts ////////////////////////////////////////
+		// Sans Serif Regular ////////////////////////
+		CMU12
+		{
+			"1"
+			{
+				"name"		"CMU Sans Serif Medium"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		CMU16
+		{
+			"1"
+			{
+				"name"		"CMU Sans Serif Medium"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		CMU24
+		{
+			"1"
+			{
+				"name"		"CMU Sans Serif Medium"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		CMU32
+		{
+			"1"
+			{
+				"name"		"CMU Sans Serif Medium"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		CMU48
+		{
+			"1"
+			{
+				"name"		"CMU Sans Serif Medium"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		CMU64
+		{
+			"1"
+			{
+				"name"		"CMU Sans Serif Medium"
+				"tall"		"64"
+				"antialias" "1"
+			}
+		}
+		
+		// Bold //////////////////////////////////
+		CMUB12
+		{
+			"1"
+			{
+				"name"		"CMU Sans Serif Bold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		CMUB16
+		{
+			"1"
+			{
+				"name"		"CMU Sans Serif Bold"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		CMUB24
+		{
+			"1"
+			{
+				"name"		"CMU Sans Serif Bold"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		CMUB32
+		{
+			"1"
+			{
+				"name"		"CMU Sans Serif Bold"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		CMUB48
+		{
+			"1"
+			{
+				"name"		"CMU Sans Serif Bold"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		CMUB64
+		{
+			"1"
+			{
+				"name"		"CMU Sans Serif Bold"
+				"tall"		"64"
+				"antialias" "1"
+			}
+		}
+		
+		// Italic /////////////////////////////
+		CMUI12
+		{
+			"1"
+			{
+				"name"		"CMU Sans Serif Oblique"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		CMUI16
+		{
+			"1"
+			{
+				"name"		"CMU Sans Serif Oblique"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		CMUI24
+		{
+			"1"
+			{
+				"name"		"CMU Sans Serif Oblique"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		CMUI32
+		{
+			"1"
+			{
+				"name"		"CMU Sans Serif Oblique"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		CMUI48
+		{
+			"1"
+			{
+				"name"		"CMU Sans Serif Oblique"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		CMUI64
+		{
+			"1"
+			{
+				"name"		"CMU Sans Serif Oblique"
+				"tall"		"64"
+				"antialias" "1"
+			}
+		}
+		
+		// Bold Italic /////////////////////////
+		CMUBI12
+		{
+			"1"
+			{
+				"name"		"CMU Sans Serif BoldOblique"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		CMUBI16
+		{
+			"1"
+			{
+				"name"		"CMU Sans Serif BoldOblique"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		CMUBI24
+		{
+			"1"
+			{
+				"name"		"CMU Sans Serif BoldOblique"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		CMUBI32
+		{
+			"1"
+			{
+				"name"		"CMU Sans Serif BoldOblique"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		CMUBI48
+		{
+			"1"
+			{
+				"name"		"CMU Sans Serif BoldOblique"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		CMUBI64
+		{
+			"1"
+			{
+				"name"		"CMU Sans Serif BoldOblique"
+				"tall"		"64"
+				"antialias" "1"
+			}
+		}
+	
+		// Bright Regular ////////////////////////
+		//========================================
+		CMUB12
+		{
+			"1"
+			{
+				"name"		"CMU Bright Roman"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		CMUB16
+		{
+			"1"
+			{
+				"name"		"CMU Bright Roman"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		CMUB24
+		{
+			"1"
+			{
+				"name"		"CMU Bright Roman"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		CMUB32
+		{
+			"1"
+			{
+				"name"		"CMU Bright Roman"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		CMUB48
+		{
+			"1"
+			{
+				"name"		"CMU Bright Roman"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		CMUB64
+		{
+			"1"
+			{
+				"name"		"CMU Bright Roman"
+				"tall"		"64"
+				"antialias" "1"
+			}
+		}
+		
+		// Bold //////////////////////////////////
+		CMUBB12
+		{
+			"1"
+			{
+				"name"		"CMU Bright SemiBold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		CMUBB16
+		{
+			"1"
+			{
+				"name"		"CMU Bright SemiBold"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		CMUBB24
+		{
+			"1"
+			{
+				"name"		"CMU Bright SemiBold"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		CMUBB32
+		{
+			"1"
+			{
+				"name"		"CMU Bright SemiBold"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		CMUBB48
+		{
+			"1"
+			{
+				"name"		"CMU Bright SemiBold"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		CMUBB64
+		{
+			"1"
+			{
+				"name"		"CMU Bright SemiBold"
+				"tall"		"64"
+				"antialias" "1"
+			}
+		}
+		
+		// Italic /////////////////////////////
+		CMUBI12
+		{
+			"1"
+			{
+				"name"		"CMU Bright Oblique"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		CMUBI16
+		{
+			"1"
+			{
+				"name"		"CMU Bright Oblique"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		CMUBI24
+		{
+			"1"
+			{
+				"name"		"CMU Bright Oblique"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		CMUBI32
+		{
+			"1"
+			{
+				"name"		"CMU Bright Oblique"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		CMUBI48
+		{
+			"1"
+			{
+				"name"		"CMU Bright Oblique"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		CMUBI64
+		{
+			"1"
+			{
+				"name"		"CMU Bright Oblique"
+				"tall"		"64"
+				"antialias" "1"
+			}
+		}
+		
+		// Bold Italic /////////////////////////
+		CMUBBI12
+		{
+			"1"
+			{
+				"name"		"CMU Bright SemiBoldOblique"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		CMUBBI16
+		{
+			"1"
+			{
+				"name"		"CMU Bright SemiBoldOblique"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		CMUBBI24
+		{
+			"1"
+			{
+				"name"		"CMU Bright SemiBoldOblique"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		CMUBBI32
+		{
+			"1"
+			{
+				"name"		"CMU Bright SemiBoldOblique"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		CMUBBI48
+		{
+			"1"
+			{
+				"name"		"CMU Bright SemiBoldOblique"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		CMUBBI64
+		{
+			"1"
+			{
+				"name"		"CMU Bright SemiBoldOblique"
+				"tall"		"64"
+				"antialias" "1"
+			}
+		}
+		
+	}	
 
 	//
 	//////////////////// BORDERS //////////////////////////////
@@ -5826,6 +6318,47 @@ Scheme
 			{
 				"range" "0x0000 0x007E"
 			}
+		}
+		//////////////////////// HUD FONT FILES /////////////////////////////
+		"8"
+		{
+			"font"	"resource/fonts/computer-modern/cmunss.ttf"
+			"name" "CMU Sans Serif Medium"
+		}
+		"9"
+		{
+			"font"	"resource/fonts/computer-modern/cmunsx.ttf"
+			"name" "CMU Sans Serif Bold"
+		}
+		"10"
+		{
+			"font"	"resource/fonts/computer-modern/cmunsi.ttf"
+			"name" "CMU Sans Serif Oblique"
+		}
+		"11"
+		{
+			"font"	"resource/fonts/computer-modern/cmunso.ttf"
+			"name" "CMU Sans Serif BoldOblique"
+		}
+		"12"
+		{
+			"font"	"resource/fonts/computer-modern/cmunbmr.ttf"
+			"name" "CMU Bright Roman"
+		}
+		"13"
+		{
+			"font"	"resource/fonts/computer-modern/cmunbsr.ttf"
+			"name" "CMU Bright SemiBold"
+		}
+		"14"
+		{
+			"font"	"resource/fonts/computer-modern/cmunbmo.ttf"
+			"name" "CMU Bright Oblique"
+		}
+		"15"
+		{
+			"font"	"resource/fonts/computer-modern/cmunbso.ttf"
+			"name" "CMU Bright SemiBoldOblique"
 		}
 	}
 }
