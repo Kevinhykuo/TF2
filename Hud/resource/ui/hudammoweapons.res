@@ -44,7 +44,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClip"
-		"font"			"CMUBB64"
+		"font"			"CMUB64"
 		"fgcolor"		"white"
 		"xpos"			"c0"
 		"xpos_minmode"	"c0"
@@ -65,7 +65,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClipShadow"
-		"font"			"CMUBB64"
+		"font"			"CMUB64"
 		"fgcolor"		"000 000 000 239"
 		"xpos"			"c2"
 		"xpos_minmode"	"c2"
@@ -86,13 +86,13 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserve"
-		"font"			"CMUBB32"
-		"font_minmode"	"CMUBB32"
+		"font"			"CMUB32"
+		"font_minmode"	"CMUB32"
 		"fgcolor"		"white"
 		"xpos"			"c0"
 		"xpos_minmode"	"c0"
-		"ypos"			"c40"	[$WIN32]
-		"ypos_minmode"	"c40"
+		"ypos"			"c45"	[$WIN32]
+		"ypos_minmode"	"c45-"
 		"ypos_lodef"	"10"
 		"zpos"			"7"
 		"wide"			"176"
@@ -100,20 +100,20 @@
 		"tall_lodef"	"30"
 		"visible"		"0"
 		"enabled"		"1"
-		"textAlignment"	"south-east"		
+		"textAlignment"	"east"		
 		"labelText"		"%AmmoInReserve%"
 	}		
 	"AmmoInReserveShadow"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserveShadow"
-		"font"			"CMUBB32"
-		"font_minmode"	"CMUBB32"
+		"font"			"CMUB32"
+		"font_minmode"	"CMUB32"
 		"fgcolor"		"000 000 000 239"
 		"xpos"			"c0"
 		"xpos_minmode"	"c0"
-		"ypos"			"c42"	[$WIN32]
-		"ypos_minmode"	"c42"
+		"ypos"			"c47"	[$WIN32]
+		"ypos_minmode"	"c47"
 		"ypos_lodef"	"11"
 		"zpos"			"7"
 		"wide"			"176"
@@ -121,16 +121,16 @@
 		"tall_lodef"	"30"
 		"visible"		"0"
 		"enabled"		"1"
-		"textAlignment"	"south-east"		
+		"textAlignment"	"east"		
 		"labelText"		"%AmmoInReserve%"
 	}									
 	"AmmoNoClip"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClip"
-		"font"			"CMUBB64"
+		"font"			"CMUB64"
 		"fgcolor"		"white"
-		"font"			"CMUBB64"
+		"font"			"CMUB64"
 		"fgcolor"		"white"
 		"xpos"			"c0"
 		"xpos_minmode"	"c0"
@@ -151,9 +151,9 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClipShadow"
-		"font"			"CMUBB64"
+		"font"			"CMUB64"
 		"fgcolor"		"000 000 000 239"
-		"font"			"CMUBB64"
+		"font"			"CMUB64"
 		"fgcolor"		"white"
 		"xpos"			"c2"
 		"xpos_minmode"	"c2"

@@ -51,10 +51,10 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"73"	[$WIN32]
-		"xpos_minmode"	"65"	[$WIN32]
-		"ypos"			"33"	[$WIN32]
-		"ypos_minmode"	"40"	[$WIN32]
+		"xpos"			"60"	[$WIN32]
+		"xpos_minmode"	"47"	[$WIN32]
+		"ypos"			"47"	[$WIN32]
+		"ypos_minmode"	"47"	[$WIN32]
 		"zpos"			"2"
 		"wide"			"55"	[$WIN32]
 		"wide_minmode"	"40"	[$WIN32]
@@ -79,7 +79,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"east"	
-		"font"			"CMUBB64"
+		"font"			"CMUB64"
 		"fgcolor"		"255 255 255 255"
 	}
 	
@@ -97,7 +97,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"east"	
-		"font"			"CMUBB64"
+		"font"			"CMUB64"
 		"fgcolor"		"000 000 000 239"
 	}
 	
@@ -123,8 +123,8 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusBleedImage"
-		"xpos"			"0"
-		"xpos_minmode"	"0"
+		"xpos"			"10"
+		"xpos_minmode"	"10"
 		"ypos"			"40"	[$WIN32]
 		"zpos"			"7"
 		"wide"			"32"
@@ -139,8 +139,8 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHookBleedImage"
-		"xpos"			"85"
-		"xpos_minmode"	"70"
+		"xpos"			"95"
+		"xpos_minmode"	"80"
 		"ypos"			"0"
 		"zpos"			"8"
 		"wide"			"32"
